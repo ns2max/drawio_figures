@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T15:49:31.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7y46YlxlnLdfeerzbome" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T15:50:32.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="rmulufX4_R3rWpDquTWG" version="24.3.1" type="github">
   <diagram name="Page-1" id="hEFDqEOQeUKf8EPMvet5">
     <mxGraphModel dx="1743" dy="1583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EUy8n02-vDI4mkvdKWN1-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-333.75" y="-900" width="193.75" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="EUy8n02-vDI4mkvdKWN1-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=30;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-800" y="-900" width="210" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EUy8n02-vDI4mkvdKWN1-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=30;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="-900" width="200" height="220" as="geometry" />
         </mxCell>
         <mxCell id="jHZxE4_nvhRUDPhLf2d2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-795.02" y="-870" width="90" height="150" as="geometry" />
@@ -20,7 +26,7 @@
         </mxCell>
         <mxCell id="jHZxE4_nvhRUDPhLf2d2-3" value="Audio" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;labelBackgroundColor=none;" parent="jHZxE4_nvhRUDPhLf2d2-2" vertex="1" connectable="0">
           <mxGeometry x="-0.2349" y="-1" relative="1" as="geometry">
-            <mxPoint x="16" y="1" as="offset" />
+            <mxPoint x="16" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jHZxE4_nvhRUDPhLf2d2-4" value="MIDI Tracker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
@@ -178,7 +184,7 @@
         </mxCell>
         <mxCell id="jHZxE4_nvhRUDPhLf2d2-43" value="Audio" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;labelBackgroundColor=none;" parent="jHZxE4_nvhRUDPhLf2d2-42" vertex="1" connectable="0">
           <mxGeometry x="0.1605" relative="1" as="geometry">
-            <mxPoint x="-54" y="-7" as="offset" />
+            <mxPoint x="-55" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jHZxE4_nvhRUDPhLf2d2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=default;strokeWidth=2;strokeColor=#666666;fontSize=10;exitX=0.307;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.462;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="jHZxE4_nvhRUDPhLf2d2-41" edge="1">
@@ -274,7 +280,7 @@
         </mxCell>
         <mxCell id="EUy8n02-vDI4mkvdKWN1-16" value="Audio" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;labelBackgroundColor=none;" vertex="1" connectable="0" parent="EUy8n02-vDI4mkvdKWN1-15">
           <mxGeometry x="0.1605" relative="1" as="geometry">
-            <mxPoint x="-54" y="-7" as="offset" />
+            <mxPoint x="-55" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EUy8n02-vDI4mkvdKWN1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=default;strokeWidth=2;strokeColor=#666666;fontSize=10;exitX=0.307;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.462;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="EUy8n02-vDI4mkvdKWN1-14">
@@ -291,14 +297,8 @@
         <mxCell id="EUy8n02-vDI4mkvdKWN1-21" value="Smart Guitar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=30;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-800" y="-900" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="EUy8n02-vDI4mkvdKWN1-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=30;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="-900" width="200" height="220" as="geometry" />
-        </mxCell>
         <mxCell id="EUy8n02-vDI4mkvdKWN1-23" value="Smart Keyboard" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=30;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-560" y="-900" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="EUy8n02-vDI4mkvdKWN1-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-333.75" y="-900" width="193.75" height="220" as="geometry" />
         </mxCell>
         <mxCell id="EUy8n02-vDI4mkvdKWN1-25" value="Smart Drum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-333.75" y="-900" width="193.75" height="20" as="geometry" />
