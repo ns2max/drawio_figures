@@ -1,9 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T04:55:00.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.3" etag="On6Am1YMrJhlZzPNhV_Y" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T05:04:24.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zIEaRfIa3aMm52xeFoZd" version="24.6.3" type="github">
   <diagram name="Page-1" id="DGlQepwFdcIa71R91A06">
-    <mxGraphModel>
+    <mxGraphModel dx="1313" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A_zA94UG9pO3DBuipe1Y-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="A_zA94UG9pO3DBuipe1Y-1" target="A_zA94UG9pO3DBuipe1Y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_zA94UG9pO3DBuipe1Y-1" value="Listen to track &lt;i&gt;n&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A_zA94UG9pO3DBuipe1Y-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="A_zA94UG9pO3DBuipe1Y-2" target="A_zA94UG9pO3DBuipe1Y-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_zA94UG9pO3DBuipe1Y-2" value="Compose 2 pattern that suit track&amp;nbsp;&lt;i&gt;n&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A_zA94UG9pO3DBuipe1Y-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="A_zA94UG9pO3DBuipe1Y-3" target="A_zA94UG9pO3DBuipe1Y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_zA94UG9pO3DBuipe1Y-3" value="Record patterns for track&amp;nbsp;&lt;i&gt;n&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A_zA94UG9pO3DBuipe1Y-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="A_zA94UG9pO3DBuipe1Y-4" target="A_zA94UG9pO3DBuipe1Y-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_zA94UG9pO3DBuipe1Y-4" value="Train model for track&amp;nbsp;&lt;i&gt;n&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A_zA94UG9pO3DBuipe1Y-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="A_zA94UG9pO3DBuipe1Y-5" target="A_zA94UG9pO3DBuipe1Y-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A_zA94UG9pO3DBuipe1Y-5" value="Improvise over track&amp;nbsp;&lt;i&gt;n&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A_zA94UG9pO3DBuipe1Y-15" style="edgeStyle=none;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="A_zA94UG9pO3DBuipe1Y-13" target="A_zA94UG9pO3DBuipe1Y-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="460" />
+              <mxPoint x="400" y="460" />
+              <mxPoint x="400" y="230" />
+              <mxPoint x="400" y="10" />
+              <mxPoint x="240" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A_zA94UG9pO3DBuipe1Y-13" value="Complete questionnaire for track&amp;nbsp;&lt;i&gt;n&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="390" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A_zA94UG9pO3DBuipe1Y-16" value="&lt;i&gt;n = 1, 2, 3&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="295" y="10" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
