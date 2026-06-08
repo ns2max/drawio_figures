@@ -1,0 +1,137 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="tOxEfWvUxVEiNhK70XMO">
+    <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="evx6plU9TGCPuxTiHr93-35" edge="1" parent="1" source="evx6plU9TGCPuxTiHr93-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.436;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="evx6plU9TGCPuxTiHr93-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="462" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="350" width="390" x="90" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;Musical Instrument&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="290" x="140" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="310" width="370" x="100" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-5" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;Raspberry Pi&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="275" x="155" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="210" width="350" x="110" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-7" edge="1" parent="1" source="evx6plU9TGCPuxTiHr93-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="evx6plU9TGCPuxTiHr93-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="285" y="165" />
+              <mxPoint x="200" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-31" edge="1" parent="1" source="evx6plU9TGCPuxTiHr93-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.439;exitY=1.013;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" target="evx6plU9TGCPuxTiHr93-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="45" width="370" x="100" y="142.5" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-9" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;HiFiberry audio interface&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="370" x="100" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="PA System" vertex="1">
+          <mxGeometry height="30" width="170" x="70" y="447" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-11" edge="1" parent="1" source="evx6plU9TGCPuxTiHr93-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="evx6plU9TGCPuxTiHr93-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;" value="" vertex="1">
+          <mxGeometry height="20" width="160" x="120" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-13" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Audio Segment" vertex="1">
+          <mxGeometry height="20" width="160" x="120" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="20" width="320" x="120" y="369" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-15" edge="1" parent="1" source="evx6plU9TGCPuxTiHr93-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="evx6plU9TGCPuxTiHr93-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="462" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-16" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=none;opacity=50;" value="OSC messages" vertex="1">
+          <mxGeometry height="20" width="320" x="120" y="369" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;" value="" vertex="1">
+          <mxGeometry height="20" width="160" x="120" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-18" edge="1" parent="1" source="evx6plU9TGCPuxTiHr93-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="evx6plU9TGCPuxTiHr93-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="320" />
+              <mxPoint x="280" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-19" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="MFCC" vertex="1">
+          <mxGeometry height="20" width="160" x="120" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-34" edge="1" parent="1" source="evx6plU9TGCPuxTiHr93-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="evx6plU9TGCPuxTiHr93-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Pattern Detection Algorithm" vertex="1">
+          <mxGeometry height="40" width="320" x="120" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Peripheral Devices" vertex="1">
+          <mxGeometry height="30" width="170" x="320" y="447" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="evx6plU9TGCPuxTiHr93-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="440" />
+              <mxPoint x="70" y="440" />
+              <mxPoint x="70" y="165" />
+            </Array>
+            <mxPoint x="260" y="440" as="sourcePoint" />
+            <mxPoint x="50" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-24" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Audio" vertex="1">
+          <mxGeometry height="30" width="60" x="57" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-25" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;VST Plugin&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="90" x="247.5" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-27" edge="1" parent="1" source="evx6plU9TGCPuxTiHr93-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="evx6plU9TGCPuxTiHr93-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="440" />
+              <mxPoint x="490" y="440" />
+              <mxPoint x="490" y="210" />
+              <mxPoint x="370" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-32" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="MIDI" vertex="1">
+          <mxGeometry height="30" width="60" x="444" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;" value="" vertex="1">
+          <mxGeometry height="20" width="160" x="290" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="evx6plU9TGCPuxTiHr93-30" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="MIDI Segment" vertex="1">
+          <mxGeometry height="20" width="160" x="290" y="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
